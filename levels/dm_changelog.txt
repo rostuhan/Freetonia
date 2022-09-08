@@ -1,0 +1,98 @@
+(This file should be removed before merging this branch inside the "Fredoom\freedoom master" branch, if this file is present in there, please open a issue about it.)
+(This file exist just to keep the track of what was changed in each map.)
+
+Freedm Changelog:
+DM01 (Medium edit): Reworked the teleport area, and the teleport destination aim directly to the skag and it's more simple.
+> Before the skag was not in same angle of the destination, requiring the player to aim to the bfg, and the door to the bfg seems useless and just slow down the player.
+> Reworked the west room making it more simple and real part of the action room.
+> Main outside room was decreased.
+> Removed unnecessary details on the map and enforced the theme in other rooms as well.
+> Rebalanced the weapon placement.
+
+DM02 (Major edit):
+> I recycled a old version of this map with a different theme, making the map more open and fluid.
+Name: Sauna Fissure
+
+DM03 (Medium edit):
+> Just make this map a slight acceptable than before by removing secret and stuffs.
+
+DM04 (Minor edit): Just changed the positions of an stinpack and a ammo box and the bfg platform wont stop moving anymore.
+> When I edited this map layout I forget to replace these items on their correct spots and about the bfg platform it's better if it wont stop moving now.
+> Fixed the exit room.
+
+DM06 (Medium edit): Added extra shotgun ammo\weapons outside.
+> When playing this map in zandronum I noticed this map lacks shotgun ammo very badly in outside, by the way this can improve the gameplay of altdeath mode, since there's extra shotguns to player get in outside if the ssg is not present on respawn.
+
+DM07 (Minor edit): Just a fix.
+> Corrected the alignment in the exit room.
+
+DM09 (Major edit): 
+> This map increased a lot in size keeping the same theme.
+> Designed to be played with 4 players or more in mind.
+> Removed the moving lift. Now you can acess plasma by using a staircase.
+> Each opposite side of map has a powerup.
+
+DM11 (Minor edit): Added extra barrels and moved them away from the walls, added 2 extra sheels outside.
+> Before the barrels was "glued" in the wall for some reason, and more 1 shells pickups on each outside area wont hurt.
+> Extra barrels was also added to increase this feature that's unique to this map.
+> Another area was added on the north side of the map, this have cells and a invisibility sphere.
+> Improved some curves of the map to make the plasma room "playable".
+
+DM12 (Major edit): Changed theme, Slight changed layout, enlarged the map, simplified the rooms, added extra spawn points and eliminated the chance of spamming polaric cannon in the middle of map.
+> Pre-rework this map had a serious issue with campers spamming a line of plasma across the level, now it's not possible anymore.
+> It gained a new look based on judas.
+> Small increase in size to be more friendly with deathmatch.
+
+DM14 (Medium edit): Theme reforced, and increased the general flow of the map.
+> Changed the ceiling in the southeast to match with its neighbors.
+> Shield was moved slight inside to the playable area, it was easy to fail picking it up.
+> Removed unecessary vertices, details and all the unused textures alignment.
+> Noticeable changed the layout of the ground level to be less frustating in certain spots.
+> Plasma switch removed, it was just a waste of time.
+> Slight Increased the size of map to compensate the changes.
+
+DM16 (Minor edit): Added extra shotgun boxes on each side.
+> Just to help with extended fights, still it wont help a lot.
+
+DM17 (Medium edit): Several minor adjustments was done in the map to make it better to play both in duel and deathmatch.
+> Map was enlarged by 32px north.
+> Teleports on the pit was changed by 2 pathways.
+> Plasma locaion was moved.
+> You can leave both pits by an stair there.
+> Skag was removed.
+> All spawn spots start with ssg.
+> An extra Minigun and Missile launcher was added.
+> Rebalanced some of the items placement of the map.
+> Upper path was merged on the former bfg pillar room.
+> Pillars on middle can be used to go up instead of only way down.
+
+DM19 (Replaced): Old map was removed. <Tech isle: Way too big>
+> New map is still not good but it's way playable than it's predecessor.
+Name: Unwanted Backyard
+
+DM20 (Replaced): Old map was not really removed. <Warehouse: Much big, not fun>
+> Believe or not it's a rework of the dm20 original layout, i kept the main layout and them I reduced the map size and give it a new theme, this map looks way better than it was before.
+Name: Terra Mortis
+
+DM21 (Minor edit): Fixed the textures used by the lights spots of the map.
+> Just a fix.
+
+DM23 (Replaced): Old map was removed. <Confrontation: Not good>
+> New map based on one of my duel map pack, this map was reworked to be bigger to fit the deathmatch standards.
+Name: Testing Grounds
+
+DM24 (Minor edit): Fixed a wrong texture on the ceiling close to the skag room.
+> Just a fix.
+
+DM26 (Replaced): Old map was removed. <Acid Cripty: Map way too bad>
+> Bit bad for DM but excellent for duel, better than the old map at least.
+Name: Crater Excavation
+
+DM27 (Minor edit): Removed the east side of the map.
+> Few players was complaining about that area not being playable, now it was removed and changed.
+
+DM31 (Minor edit): Added extra ammo boxes for chaingun.
+> Ammo for chaingun in this map was way too low, this may help a bit.
+
+DM32 (Minor edit): Lift is now faster.
+> Skag is useless on this map and slow lift just make it worse.
