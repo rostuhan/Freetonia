@@ -304,12 +304,13 @@ HUSTR_31 = DM31: Desolated Fort
 HUSTR_32 = DM32: Fourplay
 #else
 # Freetonia map names
-HUSTR_1 = MAP01: Islet
-HUSTR_2 = MAP02: Pond Of Spirits
-HUSTR_3 = MAP03: The Caverns
+[STRINGS]
+HUSTR_1 = MAP01: Ghana
+HUSTR_2 = MAP02: Fountain Of Life Force
+HUSTR_3 = MAP03: Inca
 HUSTR_4 = MAP04: Sewage Station
 HUSTR_5 = MAP05: Switch Metropolis
-HUSTR_6 = MAP06: Pain Hollow
+HUSTR_6 = MAP06: Concave Of Agony
 HUSTR_7 = MAP07: Enclosedure
 HUSTR_8 = MAP08: Empire
 HUSTR_9 = MAP09: Boucherie
@@ -328,7 +329,7 @@ HUSTR_21 = MAP21: Fatality
 HUSTR_22 = MAP22: Practical Retreat
 HUSTR_23 = MAP23: Artifact
 HUSTR_24 = MAP24: The Initial Interior
-HUSTR_25 = MAP25: The Oceans of Brightness
+HUSTR_25 = MAP25: The Oceans Of Brightness
 HUSTR_26 = MAP26: Headland
 HUSTR_27 = MAP27: Dreadful-Wretch
 HUSTR_28 = MAP28: The Corridors
